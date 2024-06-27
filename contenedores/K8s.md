@@ -1,3 +1,3 @@
 ## QUE ES?
 
-Es una herramienta que sirve para orquestar [[]]
+Es una herramienta que sirve para orquestar contenedores

@@ -1,3 +1,3 @@
 ## QUE ES?
 
-Docker es un 
+Docker es una herramienta para crear contenedores. Un contenedor 

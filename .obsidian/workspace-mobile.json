@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "d3502a811fbe3d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "af28bfad30b5718e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad51a4837eab948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contenedores/Holcapo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "592b019d251a4957",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4017afb64476cd1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b86dfaae7381574d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f139250c084e6004",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "356728fd58c0063c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "77082440fda1b843",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6fb116cf89caa43f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "contenedores/Holcapo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a47b1c5e23f618e9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "contenedores/Holcapo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9ce88a4f802a17be",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "contenedores/Holcapo.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ad51a4837eab948",
+  "lastOpenFiles": [
+    "contenedores/Docker.md",
+    "contenedores/Holcapo.md",
+    "contenedores/CI-CD.md",
+    "contenedores/K8s.md",
+    "contenedores"
+  ]
+}
